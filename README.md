@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gerald-Izuchukwu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF" alt="GitHub Stats" />
+      <img src="./profile/stats.svg" alt="GitHub Stats" />
     </td>
     <td>
       <a href="https://git.io/streak-stats">
@@ -21,7 +21,7 @@
       </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald-Izuchukwu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+      <img src="./profile/top-langs.svg" alt="Top Languages" />
     </td>
   </tr>
 </table>
